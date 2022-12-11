@@ -1,0 +1,20 @@
+body{
+    background-color: purple;
+
+}
+.container{
+    display: grid ;
+   align-items: center;
+   justify-content: center;
+    
+}
+.splash{
+    color:gainsboro;
+}
+.mainScreen{
+    display: none;
+}
+.scanPic img{
+    width: 200px;
+    height:auto;
+}
